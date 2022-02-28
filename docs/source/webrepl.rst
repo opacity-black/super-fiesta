@@ -3,8 +3,8 @@ webrepl
 
 .. What:
 
-repl: 交互式解释器
-webrepl: 无线的repl
+``repl``: 交互式解释器
+``webrepl``: 无线的repl
 
 开启后可以实现在线更新程序, 与片上的micropython交互, 再也不怕碰到线了
 
