@@ -40,6 +40,9 @@ how to :ref:`installation` the project.
 .. toctree::
 
    结构相关
+   修饰
+   链接
+   内容块
    webrepl
    usage
    api
